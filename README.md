@@ -25,6 +25,6 @@
 
 ### - 📫 How to reach me: < barrientoss.joel@gmail.com >
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<barrientoss.joel@gmail.com>) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/barrientossjoel/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barrientossjoel/)
 
 ### My Repos ⬇️
