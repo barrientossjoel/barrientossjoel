@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joel Barrientos</h1>
+<h1 align="center">Hi 👋, I'm Joel</h1>
 
     const Barrientossjoel = {
       fullName: "Jeremias Joel Barrientos",
