@@ -1,9 +1,9 @@
-# <h1 align="left"> Hi there 👋 I'm Joel</h1>
+# <h1 align="left"> Hi there! 👋 I'm Joel 🧑‍💻🚀</h1>
 
 ```javascript
     const Barrientossjoel = {
       fullName: "Jeremias Joel Barrientos",
-      profession: "Back End end ", 
+      profession: "Back End end 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español", "english"],
       techStack: {
