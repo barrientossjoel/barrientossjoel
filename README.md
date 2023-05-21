@@ -9,7 +9,7 @@
         code: [JavaScript, TypeScript]
         tools: {
           frontEnd: [HTML, CSS, PHP, Boostrap],
-          backEnd: [C#, Java],
+          backEnd: [C#, Java, Python],
           databases: {MySQL, MongoDB},
           versionControl: Git,
         },
