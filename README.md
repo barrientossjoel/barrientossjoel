@@ -1,4 +1,5 @@
-# <h1 align="left"> Hi there!  I'm Joel 👋</h1>
+# <a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Joel+🤝.;Fullstack+Developer+⚡.">
+  </a></h2></a>
 
 ```javascript
     const Barrientossjoel = {
@@ -15,8 +16,8 @@
           versionControl: Git,
         },
       },
-      currentlyLearning: [Python, TypeScript, AWS],
-      ToDolist: [React-Native, Angular],
+      currentlyLearning: [Python, TypeScript, React, Angular],
+      ToDolist: [Three.js, Sass],
     };
    ```
    
