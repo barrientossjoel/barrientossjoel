@@ -1,4 +1,4 @@
-# <h1 align="left"> Hi there! 👋 I'm Joel 🧑‍💻🚀</h1>
+# <h1 align="left"> Hi there!  I'm Joel 👋</h1>
 
 ```javascript
     const Barrientossjoel = {
