@@ -4,14 +4,14 @@
 ```javascript
     const Barrientossjoel = {
       fullName: "Jeremias Joel Barrientos",
-      profession: "Back End 🧑‍💻", 
+      profession: "Developer 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español", "english"],
       techStack: {
         tools: {
-          frontEnd: [HTML, CSS, PHP, Boostrap],
-          backEnd: [Java, C#],
-          databases: {MySQL, MongoDB},
+          frontEnd: [HTML, CSS, Boostrap, Javascript],
+          backEnd: [Java, PHP, C#],
+          databases: {MySQL},
           versionControl: Git,
         },
       },
