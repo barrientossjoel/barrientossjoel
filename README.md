@@ -16,7 +16,7 @@
         },
       },
       currentlyLearning: [Python, TypeScript, React, Angular],
-      ToDolist: [Three.js, Sass],
+      ToDolist: [Tailwind CSS, shadcn, Astro, Three.js ],
     };
    ```
    
