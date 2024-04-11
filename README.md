@@ -15,7 +15,7 @@
           versionControl: Git,
         },
       },
-      currentlyLearning: [Python, TypeScript, React, Angular],
+      currentlyLearning: [Python, TypeScript, React],
       ToDolist: [Tailwind CSS, shadcn, Astro, Three.js ],
     };
    ```
