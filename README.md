@@ -1,4 +1,6 @@
 # Hi there I'm Joel 👋
+
+A little more about me
 ```javascript
     const Barrientossjoel = {
       fullName: "Jeremias Joel Barrientos",
