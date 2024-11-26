@@ -1,4 +1,4 @@
-# <a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Joel+🤝.;Fullstack+Developer+⚡.">
+# <a><h2> <img src="https://readme-typing-svg.herokuapp.com?&color=342AB8&center=true&lines=Hi+there+👋;I'm+Joel+🤝.;Fullstack+Developer+⚡.">
   </a></h2></a>
 
 ```javascript
