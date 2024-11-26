@@ -1,4 +1,7 @@
 # Hi there I'm Joel 👋
+I'm a developer based in Argentina with a background in Visual Arts and currently finishing my career as a Systems Analyst. 
+
+With more than 1 year of self-taught experience, I specialize in JAVA, PHP, SQL and React. I worked in the development of projects that integrate design, planning and integration, focusing on creating scalable and well structured solutions. Among my achievements I highlight the creation of key functionalities for the educational management where I study and the implementation of collaborative work strategies in multidisciplinary teams. 
 
 A little more about me
 ```javascript
