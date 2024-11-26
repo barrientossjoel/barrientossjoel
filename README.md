@@ -1,4 +1,4 @@
-# <a><h2>Hi there I'm Joel 👋>
+# Hi there I'm Joel 👋
 ```javascript
     const Barrientossjoel = {
       fullName: "Jeremias Joel Barrientos",
