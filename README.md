@@ -12,14 +12,14 @@ A little more about me
       spokenLanguages: ["español", "english"],
       techStack: {
         tools: {
-          frontEnd: [HTML, CSS, Boostrap, Javascript],
-          backEnd: [Java, PHP, C#],
-          databases: {MySQL},
+          frontEnd: [JS, Tailwind, Shadcn, Astro],
+          backEnd: [C, Java, PHP],
+          databases: {MySQL, MongoDB},
           versionControl: Git,
         },
       },
-      currentlyLearning: [Python, TypeScript, React],
-      ToDolist: [Tailwind CSS, shadcn, Astro, Three.js ],
+      currentlyLearning: [TypeScript, React],
+      ToDolist: [Three.js ],
     };
    ```
    
